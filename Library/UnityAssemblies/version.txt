@@ -1,0 +1,5 @@
+5.1.1p4:1.9.2.0
+D:/ApplicationInstallPath/Unity5.1.1p4/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/ApplicationInstallPath/Unity5.1.1p4/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/ApplicationInstallPath/Unity5.1.1p4/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+D:/ApplicationInstallPath/Unity5.1.1p4/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
